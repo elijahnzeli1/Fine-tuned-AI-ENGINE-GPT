@@ -1,0 +1,62 @@
+project_types:
+  - mobile_app
+  - web_app
+  - desktop_app
+  - api
+  - data_pipeline
+  - machine_learning_model
+
+languages:
+  - python
+  - javascript
+  - java
+  - kotlin
+  - swift
+  - dart
+
+frameworks:
+  mobile:
+    - flutter
+    - react_native
+    - ionic
+  web:
+    - nextjs
+    - react
+    - vite
+    - vue
+    - angular
+  backend:
+    - django
+    - flask
+    - express
+    - spring_boot
+
+database:
+  - postgresql
+  - mysql
+  - mongodb
+  - redis
+
+cloud_platforms:
+  - aws
+  - gcp
+  - azure
+
+ci_cd:
+  - github_actions
+  - jenkins
+  - gitlab_ci
+
+code_style:
+  python: "pep8"
+  javascript: "eslint-recommended"
+  java: "google_style"
+
+documentation:
+  generate_readme: true
+  generate_api_docs: true
+  include_comments: true
+
+testing:
+  include_unit_tests: true
+  include_integration_tests: true

@@ -1,0 +1,28 @@
+architecture_model:
+  base_model: "bert-base-uncased"
+  num_architecture_components: 50
+  fine_tuning_rate: 1e-5
+
+code_generator:
+  model_name: "gpt2-medium"
+  max_length: 1000
+  fine_tuning_rate: 2e-5
+
+nlp:
+  intent_classifier:
+    model: "distilbert-base-uncased"
+    num_labels: 10
+  entity_extractor:
+    model: "en_core_web_sm"
+
+knowledge_base:
+  technology_kb_path: "models/knowledge_base/technology_kb.json"
+  best_practices_kb_path: "models/knowledge_base/best_practices_kb.json"
+
+fine_tuning:
+  batch_size: 32
+  epochs: 10
+  validation_split: 0.2
+  learning_rate: 1e-5
+  max_grad_norm: 1.0
+  gradient_accumulation_steps: 1

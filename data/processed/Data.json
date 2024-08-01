@@ -1,0 +1,302 @@
+[
+  {
+    "Project Description": "Build an online marketplace for buying and selling handmade crafts.",
+    "Project Type": "E-commerce platform",
+    "Technologies": "Node.js, Express, MongoDB, React",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "const express = require('express'); const app = express(); ...",
+    "Functional Requirements": "Product listing, shopping cart, payment gateway",
+    "Language": "JavaScript, Node.js",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop a learning management system for universities to deliver online courses.",
+    "Project Type": "Educational app",
+    "Technologies": "Django, PostgreSQL, React",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "class Course(models.Model): ...",
+    "Functional Requirements": "Course creation, student enrollment, quizzes",
+    "Language": "Python",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Create a mobile banking app with secure authentication and transaction features.",
+    "Project Type": "Finance and banking system",
+    "Technologies": "Java, Spring Boot, MySQL",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "public class BankingApp { ... }",
+    "Functional Requirements": "Account management, transaction history, notifications",
+    "Language": "Java",
+    "Target Platform": "Mobile"
+  },
+  {
+    "Project Description": "Develop a patient management system for healthcare providers.",
+    "Project Type": "Healthcare management system",
+    "Technologies": "Ruby on Rails, PostgreSQL, React",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "class Patient < ApplicationRecord ...",
+    "Functional Requirements": "Patient records, appointment scheduling, billing",
+    "Language": "Ruby",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Build a smart home system that integrates with IoT devices for automation.",
+    "Project Type": "IoT and smart home application",
+    "Technologies": "Python, Flask, MQTT, React",
+    "Project Structure": "Frontend, Backend, IoT Devices",
+    "Sample Code Snippets": "app.route('/control-light').post((req, res) => { ... })",
+    "Functional Requirements": "Device control, automation rules, security monitoring",
+    "Language": "Python",
+    "Target Platform": "IoT"
+  },
+  {
+    "Project Description": "Create a multiplayer online game with real-time strategy elements.",
+    "Project Type": "Gaming platform",
+    "Technologies": "Unity, C#, Photon",
+    "Project Structure": "Game Client, Server, Database",
+    "Sample Code Snippets": "void Start() { ... }",
+    "Functional Requirements": "Multiplayer matchmaking, in-game chat, leaderboards",
+    "Language": "C#",
+    "Target Platform": "Game"
+  },
+  {
+    "Project Description": "Develop a content management system for publishing blogs and articles.",
+    "Project Type": "Content management system",
+    "Technologies": "PHP, Laravel, MySQL",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "<?php function createPost() { ... } ?>",
+    "Functional Requirements": "Post creation, media upload, content moderation",
+    "Language": "PHP",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Create a CRM tool for managing customer interactions and sales pipelines.",
+    "Project Type": "CRM tool",
+    "Technologies": "Salesforce, JavaScript, Node.js",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "const lead = new Lead(); ...",
+    "Functional Requirements": "Lead tracking, customer data management, analytics",
+    "Language": "JavaScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Build a project management app with task tracking and collaboration features.",
+    "Project Type": "Project management application",
+    "Technologies": "Angular, .NET Core, SQL Server",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "public class ProjectController : Controller { ... }",
+    "Functional Requirements": "Task assignment, project timelines, file sharing",
+    "Language": "C#",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop a predictive analytics platform for financial forecasting.",
+    "Project Type": "AI and machine learning project",
+    "Technologies": "Python, TensorFlow, Flask",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "def predict_stock_prices(): ...",
+    "Functional Requirements": "Data collection, predictive modeling, reporting",
+    "Language": "Python",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Create a fitness tracking app that syncs with wearable devices.",
+    "Project Type": "Health and fitness app",
+    "Technologies": "Kotlin, Firebase, SQLite",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "fun syncWithWearable() { ... }",
+    "Functional Requirements": "Activity tracking, goal setting, progress analytics",
+    "Language": "Kotlin",
+    "Target Platform": "Mobile"
+  },
+  {
+    "Project Description": "Develop a social networking platform focused on professional connections.",
+    "Project Type": "Social networking platform",
+    "Technologies": "Ruby on Rails, PostgreSQL, React",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "class User < ApplicationRecord ...",
+    "Functional Requirements": "Profile creation, connection requests, messaging",
+    "Language": "Ruby",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Build an e-commerce site with personalized product recommendations.",
+    "Project Type": "E-commerce platform",
+    "Technologies": "Shopify, GraphQL, Node.js",
+    "Project Structure": "Frontend, Backend, Database",
+    "Sample Code Snippets": "const shopify = require('shopify-api-node'); ...",
+    "Functional Requirements": "Product catalog, order management, customer reviews",
+    "Language": "JavaScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Create an AI-powered chatbot for customer support.",
+    "Project Type": "Customer support tool",
+    "Technologies": "Python, Flask, NLP",
+    "Project Structure": "Frontend, Backend, AI Engine",
+    "Sample Code Snippets": "from flask import Flask, request ...",
+    "Functional Requirements": "Natural language understanding, response generation",
+    "Language": "Python",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop a video conferencing tool with screen sharing and recording features.",
+    "Project Type": "Video conferencing tool",
+    "Technologies": "WebRTC, JavaScript, Node.js",
+    "Project Structure": "Frontend, Backend, Media Server",
+    "Sample Code Snippets": "const peer = new Peer(); ...",
+    "Functional Requirements": "Video calls, screen sharing, meeting scheduling",
+    "Language": "JavaScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Create an augmented reality app for interior design.",
+    "Project Type": "AR application",
+    "Technologies": "Unity, ARKit, Swift",
+    "Project Structure": "Frontend, Backend, AR Engine",
+    "Sample Code Snippets": "ARAnchor *anchor = [[ARAnchor alloc] initWith ...];",
+    "Functional Requirements": "3D modeling, AR visualization, interactive UI",
+    "Language": "Swift",
+    "Target Platform": "Mobile"
+  },
+  {
+    "Project Description": "Build a virtual event platform with live streaming and networking features.",
+    "Project Type": "Virtual event platform",
+    "Technologies": "React, Node.js, WebRTC",
+    "Project Structure": "Frontend, Backend, Media Server",
+    "Sample Code Snippets": "const liveStream = require('live-stream'); ...",
+    "Functional Requirements": "Live streaming, participant engagement, virtual booths",
+    "Language": "JavaScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop a mobile health monitoring app for chronic disease management.",
+    "Project Type": "Health monitoring app",
+    "Technologies": "Flutter, Firebase, GraphQL",
+    "Project Structure": "Frontend, Backend, API Integration",
+    "Sample Code Snippets": "class HealthData extends StatelessWidget { ... }",
+    "Functional Requirements": "Health data tracking, alerts, doctor communication",
+    "Language": "Dart",
+    "Target Platform": "Mobile"
+  },
+  {
+    "Project Description": "Create a decentralized file storage system using blockchain technology.",
+    "Project Type": "Blockchain project",
+    "Technologies": "Ethereum, Solidity, IPFS",
+    "Project Structure": "Blockchain, Frontend, Backend",
+    "Sample Code Snippets": "pragma solidity ^0.8.0; contract Storage { ... }",
+    "Functional Requirements": "File encryption, distributed storage, user access control",
+    "Language": "Solidity",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop an AI-based image recognition system for security cameras.",
+    "Project Type": "Security application",
+    "Technologies": "Python, OpenCV, TensorFlow",
+    "Project Structure": "Frontend, Backend, AI Engine",
+    "Sample Code Snippets": "import cv2 ...",
+    "Functional Requirements": "Object detection, face recognition, alert system",
+    "Language": "Python",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop a real-time collaborative code editor with version control integration.",
+    "Project Type": "Development Tool",
+    "Technologies": "WebSockets, React, Monaco Editor, Git API, Node.js",
+    "Project Structure": "Frontend (React app), Backend (Node.js server), Database (PostgreSQL), Version Control System",
+    "Sample Code Snippets": "import { MonacoEditor } from 'react-monaco-editor';\n\nfunction CodeEditor() {\n  return (\n    <MonacoEditor\n      width=\"800\"\n      height=\"600\"\n      language=\"javascript\"\n      theme=\"vs-dark\"\n      value={code}\n      onChange={handleCodeChange}\n    />\n  );\n}",
+    "Functional Requirements": "Real-time collaboration, syntax highlighting, Git integration, user authentication",
+    "Language": "JavaScript, TypeScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Create a machine learning platform for automated trading in cryptocurrency markets.",
+    "Project Type": "FinTech",
+    "Technologies": "Python, TensorFlow, FastAPI, PostgreSQL, Redis, Docker",
+    "Project Structure": "Data Collection Service, ML Model Training Pipeline, Trading Engine, API Layer, Frontend Dashboard",
+    "Sample Code Snippets": "from fastapi import FastAPI\nfrom pydantic import BaseModel\n\napp = FastAPI()\n\nclass Trade(BaseModel):\n    symbol: str\n    amount: float\n    price: float\n\n@app.post(\"/execute_trade/\")\nasync def execute_trade(trade: Trade):\n    # Implement trade execution logic\n    return {\"status\": \"success\", \"trade_id\": generate_trade_id()}",
+    "Functional Requirements": "Data ingestion, model training, backtesting, real-time trading execution, performance analytics",
+    "Language": "Python, SQL",
+    "Target Platform": "Web & Cloud"
+  },
+  {
+    "Project Description": "Build a drone delivery management system with route optimization.",
+    "Project Type": "Logistics",
+    "Technologies": "Go, gRPC, PostgreSQL, React, Docker, Kubernetes",
+    "Project Structure": "Microservices (Go), Frontend (React), Database (PostgreSQL), Message Queue (RabbitMQ)",
+    "Sample Code Snippets": "package main\n\nimport (\n    \"context\"\n    \"log\"\n    \n    pb \"github.com/example/dronedelivery/proto\"\n    \"google.golang.org/grpc\"\n)\n\nfunc main() {\n    conn, err := grpc.Dial(\"localhost:50051\", grpc.WithInsecure())\n    if err != nil {\n        log.Fatalf(\"Failed to connect: %v\", err)\n    }\n    defer conn.Close()\n    \n    client := pb.NewDroneDeliveryClient(conn)\n    \n    // Implement drone delivery logic\n}",
+    "Functional Requirements": "Drone fleet management, route optimization, real-time tracking, delivery scheduling",
+    "Language": "Go, JavaScript",
+    "Target Platform": "Web & Mobile"
+  },
+  {
+    "Project Description": "Develop an AI-powered music composition and production tool.",
+    "Project Type": "Creative Software",
+    "Technologies": "Python, TensorFlow, PyDub, Flask, Web Audio API",
+    "Project Structure": "ML Model (TensorFlow), Audio Processing (PyDub), Backend API (Flask), Frontend (Web Audio API)",
+    "Sample Code Snippets": "import tensorflow as tf\nfrom pydub import AudioSegment\n\ndef generate_music(seed_sequence):\n    model = tf.keras.models.load_model('music_gen_model.h5')\n    generated_sequence = model.predict(seed_sequence)\n    \n    # Convert generated sequence to audio\n    audio = AudioSegment.from_wav(generated_sequence)\n    return audio",
+    "Functional Requirements": "AI-based melody generation, instrument synthesis, mixing and mastering, collaborative editing",
+    "Language": "Python, JavaScript",
+    "Target Platform": "Desktop & Web"
+  },
+  {
+    "Project Description": "Create a blockchain-based supply chain tracking system for the pharmaceutical industry.",
+    "Project Type": "Supply Chain Management",
+    "Technologies": "Hyperledger Fabric, Node.js, Express, Angular, MongoDB",
+    "Project Structure": "Blockchain Network, Smart Contracts, API Layer, Frontend, Database",
+    "Sample Code Snippets": "const { Gateway, Wallets } = require('fabric-network');\n\nasync function queryDrugHistory(drugId) {\n    const gateway = new Gateway();\n    await gateway.connect(ccp, { wallet, identity: 'user1' });\n    \n    const network = await gateway.getNetwork('mychannel');\n    const contract = network.getContract('drugtrack');\n    \n    const result = await contract.evaluateTransaction('queryDrugHistory', drugId);\n    return JSON.parse(result.toString());\n}",
+    "Functional Requirements": "Product tracking, temperature monitoring, authenticity verification, regulatory compliance",
+    "Language": "JavaScript, Go (for chaincode)",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Build an augmented reality navigation system for indoor spaces.",
+    "Project Type": "AR Application",
+    "Technologies": "Unity, ARCore, C#, ASP.NET Core, SQL Server",
+    "Project Structure": "AR App (Unity), Backend API (ASP.NET Core), Database (SQL Server)",
+    "Sample Code Snippets": "using UnityEngine;\nusing UnityEngine.XR.ARFoundation;\n\npublic class ARNavigation : MonoBehaviour\n{\n    private ARRaycastManager raycastManager;\n    \n    void Start()\n    {\n        raycastManager = GetComponent<ARRaycastManager>();\n    }\n    \n    void Update()\n    {\n        // Implement AR navigation logic\n    }\n}",
+    "Functional Requirements": "Indoor mapping, AR path visualization, real-time positioning, POI information",
+    "Language": "C#, SQL",
+    "Target Platform": "Mobile (iOS & Android)"
+  },
+  {
+    "Project Description": "Develop a distributed edge computing platform for IoT data processing.",
+    "Project Type": "IoT & Edge Computing",
+    "Technologies": "Rust, gRPC, InfluxDB, Grafana, Kubernetes",
+    "Project Structure": "Edge Nodes (Rust), Orchestrator (Kubernetes), Time-Series DB (InfluxDB), Visualization (Grafana)",
+    "Sample Code Snippets": "use tokio::net::TcpListener;\nuse tonic::{transport::Server, Request, Response, Status};\n\npub mod edge_compute {\n    tonic::include_proto!(\"edgecompute\");\n}\n\n#[tokio::main]\nasync fn main() -> Result<(), Box<dyn std::error::Error>> {\n    let addr = \"[::1]:50051\".parse()?;\n    let edge_service = EdgeComputeService::default();\n\n    Server::builder()\n        .add_service(EdgeComputeServer::new(edge_service))\n        .serve(addr)\n        .await?;\n\n    Ok(())\n}",
+    "Functional Requirements": "Edge node management, data aggregation, real-time analytics, fault tolerance",
+    "Language": "Rust, SQL",
+    "Target Platform": "IoT Devices & Cloud"
+  },
+  {
+    "Project Description": "Create a natural language processing tool for automated legal document analysis.",
+    "Project Type": "Legal Tech",
+    "Technologies": "Python, SpaCy, FastAPI, PostgreSQL, React",
+    "Project Structure": "NLP Model (SpaCy), Backend API (FastAPI), Database (PostgreSQL), Frontend (React)",
+    "Sample Code Snippets": "import spacy\n\nnlp = spacy.load(\"en_core_web_sm\")\n\ndef analyze_legal_document(text):\n    doc = nlp(text)\n    entities = [(ent.text, ent.label_) for ent in doc.ents]\n    return {\n        \"entities\": entities,\n        \"summary\": generate_summary(doc)\n    }",
+    "Functional Requirements": "Document parsing, entity extraction, clause identification, risk assessment",
+    "Language": "Python, JavaScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Build a quantum computing simulator for educational purposes.",
+    "Project Type": "Quantum Computing",
+    "Technologies": "Q#, Python, Django, React",
+    "Project Structure": "Quantum Simulator (Q#), Backend API (Django), Frontend (React)",
+    "Sample Code Snippets": "namespace QuantumSimulator {\n    open Microsoft.Quantum.Canon;\n    open Microsoft.Quantum.Intrinsic;\n\n    operation SimulateQuantumCircuit(qubits : Qubit[]) : Result[] {\n        // Implement quantum circuit simulation\n        return MultiM(qubits);\n    }\n}",
+    "Functional Requirements": "Qubit manipulation, quantum gate operations, measurement simulation, visual circuit designer",
+    "Language": "Q#, Python, JavaScript",
+    "Target Platform": "Web"
+  },
+  {
+    "Project Description": "Develop a federated learning platform for privacy-preserving AI model training.",
+    "Project Type": "AI & Privacy",
+    "Technologies": "Python, TensorFlow Federated, gRPC, PostgreSQL, Vue.js",
+    "Project Structure": "Federated Learning Coordinator, Client Nodes, Model Aggregator, Frontend Dashboard",
+    "Sample Code Snippets": "import tensorflow_federated as tff\n\ndef create_federated_model():\n    return tff.learning.from_keras_model(\n        keras_model=create_keras_model(),\n        input_spec=preprocessed_dataset.element_spec,\n        loss=tf.keras.losses.SparseCategoricalCrossentropy(),\n        metrics=[tf.keras.metrics.SparseCategoricalAccuracy()]\n    )\n\nfederated_model = create_federated_model()",
+    "Functional Requirements": "Distributed model training, secure aggregation, differential privacy, model evaluation",
+    "Language": "Python, JavaScript",
+    "Target Platform": "Web & Mobile"
+  }
+]

@@ -1,0 +1,32 @@
+data:
+  train_data_path: "data/processed/train_data.json"
+  test_data_path: "data/processed/test_data.json"
+  validation_split: 0.2
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 1e-4
+  early_stopping_patience: 5
+
+optimization:
+  optimizer: "adam"
+  loss: "categorical_crossentropy"
+  metrics: ["accuracy"]
+
+hardware:
+  gpu_memory_limit: 0.8
+  mixed_precision: true
+
+logging:
+  tensorboard_log_dir: "logs/tensorboard"
+  model_checkpoint_path: "models/checkpoints"
+
+fine_tuning:
+  batch_size: 32
+  epochs: 10
+  validation_split: 0.2
+  learning_rate: 1e-5
+  max_grad_norm: 1.0
+  gradient_accumulation_steps: 1
+

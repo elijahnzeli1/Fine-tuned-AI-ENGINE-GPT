@@ -1,0 +1,13 @@
+tensorflow
+transformers
+torch
+transformers
+flask
+spacy
+scikit-learn
+pandas
+matplotlib
+seaborn
+pyyaml
+astroid
+pytest
